@@ -15250,6 +15250,13 @@
           "VIRTUAL_NODE_SCHEMA_STICKER": 3
         },
         "type": "uint32"
+      },
+      "_": {
+        "alignment": 133,
+        "members": {
+          "": 0
+        },
+        "type": "unknown"
       }
     }
   }
